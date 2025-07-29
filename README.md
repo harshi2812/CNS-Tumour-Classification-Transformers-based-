@@ -147,4 +147,4 @@ This project was conducted under the guidance of Dr. Tav Pritesh Sethi at IIIT-D
 
 📬 Contact
 
-For any questions or collaboration inquiries, feel free to reach out:📧 harshil.handoo@iiitd.ac.in
+For any questions or collaboration inquiries, feel free to reach out:📧 harshil22206@iiitd.ac.in
